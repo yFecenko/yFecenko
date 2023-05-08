@@ -7,6 +7,8 @@ I'm a Junior Front-End Developer who is interested in developing and expanding m
 I know how to find me the right information and necessary solution to any problem. I enjoy delivering results and always reach my goals. Able to work effectively both independently and in a team environment. 
 
 Programming  broughts me a lot of joy because it allows me use my imagination and creativity to design new applications, websites, and more. I love have to analyze problems, identify the root cause, and come up with solving.
+
+
 ---
 
 ### 	📧  Connect with me
