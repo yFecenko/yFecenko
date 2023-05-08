@@ -1,4 +1,4 @@
-#### Hi, my name is Yana 👋
+## Hi, my name is Yana 👋
 
 
 ### 🌼  About me
